@@ -2,6 +2,6 @@
     "title": "Réparation de fours et de cuisinières",
     "image": "https://appliancesrepairdmv.com/assets/images/oven-img.jpg",
     "description": "Services professionnels de réparation de fours, cuisinières et plaques de cuisson à gaz et électriques.",
-    "features": ["Not heating", "Temperature issues", "Burner problems", "Door issues"],
+    "features": ["Problèmes de chauffe", "Odeur de brûlé", "Disjoncte", "S'allume ou s'éteint tout seul"],
     "icon": "Cookie"
   }
