@@ -188,8 +188,8 @@ const Hero = () => {
                 </div>
                 
                 <h1 className="text-4xl lg:text-6xl font-bold text-gray-900 mb-6 leading-tight">
-                  Fast & Reliable
-                  <span className="text-blue-700 block">Appliance Repair</span>
+                  Rapide et fiable
+                  <span className="text-blue-700 block">Service De Réparation</span>
                 </h1>
                 
                 <p className="text-xl text-gray-600 mb-8 leading-relaxed">
