@@ -7,7 +7,7 @@ const Testimonials = () => {
       name: "Sarah Johnson",
       image: "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=150",
       rating: 5,
-      text: "Excellent service! They fixed my refrigerator the same day I called. Very professional and reasonably priced."
+      text: "السلام عليكم"
     },
     {
       name: "Mike Chen",
