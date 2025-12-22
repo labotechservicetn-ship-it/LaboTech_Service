@@ -1,0 +1,7 @@
+{
+    "title": "Washer & Dryer Repair",
+    "image": "https://appliancesrepairdmv.com/assets/images/washer-img.jpg",
+    "description": "Expert repair for all washing machine and dryer brands. Quick diagnosis and professional fixes.",
+    "features": ["Won't start", "Not draining", "Not spinning", "Not heating"],
+    "icon": "WashingMachine"
+  }
