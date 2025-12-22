@@ -10,10 +10,10 @@ const Testimonials = () => {
       text: "Très serieux , service impeccable , bravo et bonne continuation"
     },
     {
-      name: "Mike Chen",
-      image: "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=150",
+      name: "Rania Ghouma",
+      image: "https://scontent.ftun8-1.fna.fbcdn.net/v/t39.30808-6/455039776_804513101862289_4130151429706995316_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=DwO2gPVNs64Q7kNvwHPmgZJ&_nc_oc=Adkkg2wwBpXRHXtmbdjP2kdd7wl-BGEhZdIelWN7oOkY6wYYwgIRecKlbsPyntm9rFE&_nc_zt=23&_nc_ht=scontent.ftun8-1.fna&_nc_gid=8tWztPWU0EfsnUBpJQzqzQ&oh=00_AflABDJvBwsL0IRNPeYTi5jLAQr9vlTQi25e2e0K9oqa-Q&oe=694F96DC",
       rating: 5,
-      text: "CozytTech saved me from buying a new washing machine. Quick diagnosis and expert repair work."
+      text: "Intervention rapide, diagnostic précis et service de qualité. Une société fiable et compétente. Une équipe très professionnelle et à l’écoute . Service professionnel rapide et efficace.  travail tres bien soigné.. Merci pour votre sérieux et votre gentillesse. Je recommande vivement .. 👍 top"
     },
     {
       name: "Emily Rodriguez",
