@@ -34,10 +34,10 @@ const Testimonials = () => {
       text: "شهادة حق ما شاء الله عليكم كامل المجموعة اخلاق عالية وخدمة وإتقان وثقة كبيرة وكنتو عند حسن الضن الحق متع ربي هزولي الماكينة متاعي صلحوها وجابوهالي في أحسن حال ونشكر شكرا خاص لخونا محمد الي تعاملت معاه مباشره علي حسن اخلاقو وربي يباركلك"
     },
     {
-      name: "Robert Wilson",
-      image: "https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=150",
+      name: "Nassima Becha Zakraoui",
+      image: "https://scontent.ftun8-1.fna.fbcdn.net/v/t39.30808-1/468547077_1499261347429043_8822468281048868768_n.jpg?stp=dst-jpg_p100x100_tt6&_nc_cat=111&ccb=1-7&_nc_sid=e99d92&_nc_ohc=3xUZ4oJ_830Q7kNvwGRYelj&_nc_oc=AdmM5o8_42mUbFy0-YUAOZsY2sk4G_EZh9kozH7STJzVbyQgrXu4rKV_ylTrbjGpjC0&_nc_zt=24&_nc_ht=scontent.ftun8-1.fna&_nc_gid=-7mse8qPcVEriJXrPWoWbw&oh=00_Afm0VqlrHa8xbsS70BOhjyIaVg0AA0uI7LX6ZIKsSVzlaA&oe=694FB8F2",
       rating: 5,
-      text: "Amazing service! They diagnosed and fixed my dishwasher in under an hour. Very impressed."
+      text: "مشاءالله عليهم. خدمة واتقان. و ثيقة ربي ابركلهم. على خدمتهم وثقتهم ♥️♥️♥️♥️♥️"
     }
   ];
 
