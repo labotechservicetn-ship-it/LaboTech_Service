@@ -2,7 +2,7 @@ export const siteConfig = {
   name: "Labotech Service ",
   description: "Professional appliance repair services with over 15 years of experience. Licensed, insured, and committed to getting your appliances running like new.",
   phone: "52 649 639",
-  email: "info@cozytechrepair.com",
+  email: "wadijridi@gmail.com",
   address: "Greater Metro Area",
   serviceRadius: "30-mile radius",
   logo: "https://i.ibb.co/mC2ZnWFG/cozy-Tech-lgo.png",
