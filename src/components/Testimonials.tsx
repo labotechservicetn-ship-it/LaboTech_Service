@@ -28,10 +28,11 @@ const Testimonials = () => {
       text: "mille merci pour votre service rapide et efficace."
     },
     {
-      name: "Lisa Park",
-      image: "https://images.pexels.com/photos/762020/pexels-photo-762020.jpeg?auto=compress&cs=tinysrgb&w=150",
+      name: "Aicha Melliti",
+      image: "https://scontent.ftun8-1.fna.fbcdn.net/v/t1.6435-1/102872505_2716796058554293_5039097063977126392_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=103&ccb=1-7&_nc_sid=e99d92&_nc_ohc=7YYhuuTNQiUQ7kNvwExAiXR&_nc_oc=AdnCl934T1c6peT5qQU7fLOiuk1QJgi26mUoJAuQztEPaCL5F9i9cgYX4070Mk7T-xk&_nc_zt=24&_nc_ht=scontent.ftun8-1.fna&_nc_gid=8bv_B4q7D-yeiHtDU15N6Q&oh=00_Aflklo3w3k4REXkSMdCwZ7GK0fb_pTFiLUwtVOtPQ2rVrA&oe=69712C97",
       rating: 5,
-      text: "Professional, punctual, and affordable. They've become my go-to for all appliance issues."
+      text: "شهادة حق ما شاء الله عليكم كامل المجموعة اخلاق عالية وخدمة وإتقان وثقة كبيرة وكنتو عند حسن الضن الحق متع ربي هزولي الماكينة متاعي صلحوها وجابوهالي في أحسن حال ونشكر شكرا خاص لخونا محمد الي تعاملت معاه مباشره علي حسن اخلاقو وربي يباركلك
+"
     },
     {
       name: "Robert Wilson",
