@@ -193,8 +193,8 @@ const Hero = () => {
                 </h1>
                 
                 <p className="text-xl text-gray-600 mb-8 leading-relaxed">
-                  Don't let broken appliances disrupt your daily routine. Our certified technicians 
-                  provide same-day service with a 90-day warranty on all repairs.
+                  Ne laissez pas vos appareils électroménagers en panne. 
+                  Nos techniciens certifiés interviennent le jour même et toutes nos réparations sont garanties 90 jours.
                 </p>
 
                 {/* Trust indicators */}
