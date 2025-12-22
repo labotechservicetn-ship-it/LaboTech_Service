@@ -18,8 +18,8 @@ const Header = () => {
         <div className="flex justify-between items-center py-0">
           <div className="flex items-center">
             <img 
-              src="https://i.ibb.co/mC2ZnWFG/cozy-Tech-lgo.png" 
-              alt="CozytTech Appliance Repair Logo" 
+              src="https://ibb.co/cKhVz52b" 
+              alt="Labotech Service Logo" 
               className="h-32 w-auto"
             />
           </div>
