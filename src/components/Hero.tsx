@@ -236,7 +236,7 @@ const Hero = () => {
                     href="tel:+1 (571) 554-9425"
                     className="bg-orange-500 hover:bg-orange-600 text-white px-8 py-4 rounded-lg font-semibold text-lg transition-colors shadow-lg hover:shadow-xl transform hover:scale-105 text-center"
                   >
-                    Call {contactData.phone}
+                    Appel {contactData.phone}
                   </a>
                   <button
                     onClick={scrollToContact}
