@@ -109,7 +109,7 @@ const Hero = () => {
                     {item.name} Service
                     </h2>
                     <p className="text-sm sm:text-base md:text-lg text-blue-100">
-                      Professional repair and maintenance
+                      Réparation et entretien professionnels
                     </p>
                   </div>
                 </div>
@@ -184,7 +184,7 @@ const Hero = () => {
                   <Star className="h-5 w-5 text-orange-500 fill-current" />
                   <Star className="h-5 w-5 text-orange-500 fill-current" />
                   <Star className="h-5 w-5 text-orange-500 fill-current" />
-                  <span className="text-gray-600 ml-2">5.0 Rating • 500+ Happy Customers</span>
+                  <span className="text-gray-600 ml-2">Note de 5,0/5 • Plus de 500 clients satisfaits</span>
                 </div>
                 
                 <h1 className="text-4xl lg:text-6xl font-bold text-gray-900 mb-6 leading-tight">
@@ -204,8 +204,8 @@ const Hero = () => {
                       <Shield className="h-6 w-6 text-green-600" />
                     </div>
                     <div>
-                      <p className="font-semibold text-gray-900">Licensed & Insured</p>
-                      <p className="text-sm text-gray-600">Fully certified</p>
+                      <p className="font-semibold text-gray-900">Titulaire d'une licence et assuré</p>
+                      <p className="text-sm text-gray-600">Entièrement certifié</p>
                     </div>
                   </div>
                   
@@ -214,8 +214,8 @@ const Hero = () => {
                       <Clock className="h-6 w-6 text-blue-600" />
                     </div>
                     <div>
-                      <p className="font-semibold text-gray-900">Same Day Service</p>
-                      <p className="text-sm text-gray-600">Emergency available</p>
+                      <p className="font-semibold text-gray-900">Service le jour même</p>
+                      <p className="text-sm text-gray-600">Urgence disponible</p>
                     </div>
                   </div>
                   
@@ -224,8 +224,8 @@ const Hero = () => {
                       <Star className="h-6 w-6 text-orange-600" />
                     </div>
                     <div>
-                      <p className="font-semibold text-gray-900">90-Day Warranty</p>
-                      <p className="text-sm text-gray-600">On all repairs</p>
+                      <p className="font-semibold text-gray-900">Garantie de 90 jours</p>
+                      <p className="text-sm text-gray-600">Sur toutes les réparations</p>
                     </div>
                   </div>
                 </div>
@@ -242,7 +242,7 @@ const Hero = () => {
                     onClick={scrollToContact}
                     className="bg-white border-2 border-blue-700 text-blue-700 hover:bg-blue-700 hover:text-white px-8 py-4 rounded-lg font-semibold text-lg transition-colors"
                   >
-                    Schedule Repair Now
+                    Planifier une réparation maintenant
                   </button>
                 </div>
               </div>
