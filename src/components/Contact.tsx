@@ -79,7 +79,7 @@ const Contact = () => {
           <div className="flex items-center justify-center h-16">
             <Wrench className="h-8 w-8 text-blue-400 mr-2" />
           </div>
-          <h2 className="text-4xl font-bold text-gray-900 mb-4">$75 Diagnostic Fee</h2>
+          
         </div>
 
         <div className="grid lg:grid-cols-2 gap-12">
