@@ -61,8 +61,8 @@ const Contact = () => {
       <section id="contact" className="py-20 bg-gray-50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="bg-white rounded-2xl shadow-lg p-8 text-center">
-            <h3 className="text-2xl font-bold text-gray-900 mb-4">Thank you!</h3>
-            <p className="text-gray-700">Your service request has been submitted successfully. We will contact you soon.</p>
+            <h3 className="text-2xl font-bold text-gray-900 mb-4">Merci!</h3>
+            <p className="text-gray-700">Votre demande de service a bien été enregistrée. Nous vous contacterons trés rapidement.</p>
           </div>
         </div>
       </section>
@@ -73,9 +73,9 @@ const Contact = () => {
     <section id="contact" className="py-20 bg-gray-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
-          <h2 className="text-4xl font-bold text-gray-900 mb-4">Get In Touch</h2>
-          <p className="text-xl text-gray-600">Ready to fix your appliance? Contact us today!</p>
-          <h2 className="text-2xl font-bold text-blue-600 mt-8">In addition to a full range of repair services, Alliance Appliance LLC also provides the following services for different appliances:</h2>
+          <h2 className="text-4xl font-bold text-gray-900 mb-4">Prendre Contact</h2>
+          <p className="text-xl text-gray-600">Besoin de faire réparer votre appareil électroménager ? Contactez-nous dès aujourd'hui !</p>
+          <h2 className="text-2xl font-bold text-blue-600 mt-8">Outre une gamme complète de services de réparation, Alliance Labotech Service propose également les services suivants pour différents appareils :</h2>
           <div className="flex items-center justify-center h-16">
             <Wrench className="h-8 w-8 text-blue-400 mr-2" />
           </div>
@@ -85,7 +85,7 @@ const Contact = () => {
         <div className="grid lg:grid-cols-2 gap-12">
           {/* Contact Form */}
           <div className="bg-white rounded-2xl shadow-lg p-8">
-            <h3 className="text-2xl font-bold text-gray-900 mb-6">Request Service</h3>
+            <h3 className="text-2xl font-bold text-gray-900 mb-6">Demander un service</h3>
             <form
               name="request-service"
               method="POST"
@@ -97,7 +97,7 @@ const Contact = () => {
 
               <div className="grid md:grid-cols-2 gap-6">
                 <div>
-                  <label className="block text-sm font-medium text-gray-700 mb-2">Name *</label>
+                  <label className="block text-sm font-medium text-gray-700 mb-2">Nom *</label>
                   <input
                     type="text"
                     name="name"
@@ -122,7 +122,7 @@ const Contact = () => {
 
               <div className="grid md:grid-cols-2 gap-6">
                 <div>
-                  <label className="block text-sm font-medium text-gray-700 mb-2">Phone *</label>
+                  <label className="block text-sm font-medium text-gray-700 mb-2">Téléphone *</label>
                   <input
                     type="tel"
                     name="phone"
@@ -133,7 +133,7 @@ const Contact = () => {
                   />
                 </div>
                 <div>
-                  <label className="block text-sm font-medium text-gray-700 mb-2">Appliance Type *</label>
+                  <label className="block text-sm font-medium text-gray-700 mb-2">Type De Service *</label>
                   <select
                     name="applianceType"
                     value={formData.applianceType}
@@ -141,14 +141,14 @@ const Contact = () => {
                     required
                     className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent"
                   >
-                    <option value="">Select appliance</option>
-                    <option value="refrigerator">Refrigerator</option>
-                    <option value="washing-machine">Washing Machine</option>
-                    <option value="dryer">Dryer</option>
-                    <option value="dishwasher">Dishwasher</option>
-                    <option value="oven-range">Oven/Range</option>
-                    <option value="microwave">Microwave</option>
-                    <option value="other">Other</option>
+                    <option value="">Sélectionnez le service</option>
+                    <option value="refrigerator">Réfrigérateur</option>
+                    <option value="washing-machine">Machine à laver</option>
+                    <option value="dryer">Séchoir</option>
+                    <option value="dishwasher">Lave-vaisselle</option>
+                    <option value="oven-range">Four/Cuisinière</option>
+                    <option value="microwave">Micro-ondes</option>
+                    <option value="other">Autre</option>
                   </select>
                 </div>
               </div>
@@ -176,7 +176,7 @@ const Contact = () => {
               </div>
 
               <div>
-                <label className="block text-sm font-medium text-gray-700 mb-2">Problem Description *</label>
+                <label className="block text-sm font-medium text-gray-700 mb-2">Description du problème *</label>
                 <textarea
                   name="description"
                   value={formData.description}
@@ -193,7 +193,7 @@ const Contact = () => {
                 className="w-full bg-blue-600 text-white py-3 px-6 rounded-lg font-semibold hover:bg-blue-700 transition-colors flex items-center justify-center space-x-2"
               >
                 <Send className="h-5 w-5" />
-                <span>Request Service</span>
+                <span>Demander un Service</span>
               </button>
             </form>
           </div>
@@ -206,7 +206,7 @@ const Contact = () => {
           <div className="flex items-center">
             <Phone className="h-6 w-6 text-blue-600 mr-4" />
             <div>
-              <div className="font-semibold">Phone</div>
+              <div className="font-semibold">Téléphone</div>
               <div className="text-gray-600">{contactData.phone}</div>
             </div>
           </div>
@@ -222,7 +222,7 @@ const Contact = () => {
           <div className="flex items-start">
             <MapPin className="h-6 w-6 text-blue-600 mr-4" />
             <div>
-              <div className="font-semibold">Service Areas</div>
+              <div className="font-semibold">Service Adresse</div>
               {contactData.serviceAreas.map((area: string, idx: number) => (
                 <div key={idx} className="flex items-center mb-2">
                   <span className="flex items-center justify-center w-4 h-4 rounded-full bg-green-500 text-white text-[10px] mr-2">
@@ -237,7 +237,7 @@ const Contact = () => {
           <div className="flex items-center">
             <Clock className="h-6 w-6 text-blue-600 mr-4" />
             <div>
-              <div className="font-semibold">Hours</div>
+              <div className="font-semibold">Horaires</div>
               <div className="text-gray-600">{contactData.hours}</div>
             </div>
           </div>
@@ -246,62 +246,62 @@ const Contact = () => {
     
             {/* Appliances We Repair */}
             <div className="bg-white rounded-2xl shadow-lg p-8 mb-8">
-              <div className="font-semibold mb-4">We Repair Most Brands & Models!</div>
+              <div className="font-semibold mb-4">Nous réparons toutes les marques et tous les modèles!</div>
               
               <div className="flex items-center mb-2">
                 <span className="flex items-center justify-center w-4 h-4 rounded-full bg-green-500 text-white text-[10px] mr-2">
                   ✓
                 </span>
-                <div className="text-gray-600">Refrigerator</div>
+                <div className="text-gray-600">Réfrigérateur</div>
               </div>
 
               <div className="flex items-center mb-2">
                 <span className="flex items-center justify-center w-4 h-4 rounded-full bg-green-500 text-white text-[10px] mr-2">
                   ✓
                 </span>
-                <div className="text-gray-600">Freezer</div>
+                <div className="text-gray-600">Congélateur</div>
               </div>
 
               <div className="flex items-center mb-2">
                 <span className="flex items-center justify-center w-4 h-4 rounded-full bg-green-500 text-white text-[10px] mr-2">
                   ✓
                 </span>
-                <div className="text-gray-600">Washing Machine</div>
+                <div className="text-gray-600">Machine à laver</div>
               </div>
 
               <div className="flex items-center mb-2">
                 <span className="flex items-center justify-center w-4 h-4 rounded-full bg-green-500 text-white text-[10px] mr-2">
                   ✓
                 </span>
-                <div className="text-gray-600">Dryer</div>
+                <div className="text-gray-600">Séchoir</div>
               </div>
 
               <div className="flex items-center mb-2">
                 <span className="flex items-center justify-center w-4 h-4 rounded-full bg-green-500 text-white text-[10px] mr-2">
                   ✓
                 </span>
-                <div className="text-gray-600">Cooking Range</div>
+                <div className="text-gray-600">Cuisinière</div>
               </div>
 
               <div className="flex items-center mb-2">
                 <span className="flex items-center justify-center w-4 h-4 rounded-full bg-green-500 text-white text-[10px] mr-2">
                   ✓
                 </span>
-                <div className="text-gray-600">Cooktop</div>
+                <div className="text-gray-600">Plaque de cuisson</div>
               </div>
 
               <div className="flex items-center mb-2">
                 <span className="flex items-center justify-center w-4 h-4 rounded-full bg-green-500 text-white text-[10px] mr-2">
                   ✓
                 </span>
-                <div className="text-gray-600">Oven</div>
+                <div className="text-gray-600">Four</div>
               </div>
 
               <div className="flex items-center mb-2">
                 <span className="flex items-center justify-center w-4 h-4 rounded-full bg-green-500 text-white text-[10px] mr-2">
                   ✓
                 </span>
-                <div className="text-gray-600">Cooker Hoods</div>
+                <div className="text-gray-600">Hottes aspirantes</div>
               </div>
             </div>
           </div>
@@ -314,7 +314,7 @@ const Contact = () => {
         <div className="fixed inset-0 bg-black bg-opacity-50 z-50 flex items-center justify-center p-4">
           <div className="bg-white rounded-2xl max-w-4xl w-full max-h-[90vh] overflow-hidden">
             <div className="flex justify-between items-center p-6 border-b">
-              <h3 className="text-xl font-bold">Select Your Location</h3>
+              <h3 className="text-xl font-bold">Sélectionnez votre emplacement</h3>
               <button
                 onClick={() => setIsMapModalOpen(false)}
                 className="text-gray-500 hover:text-gray-700"
@@ -340,30 +340,11 @@ const Contact = () => {
                   onClick={() => selectLocation('123 Main St, New York, NY 10001')}
                   className="p-4 border border-gray-300 rounded-lg hover:border-blue-500 hover:bg-blue-50 transition-colors text-left"
                 >
-                  <div className="font-semibold">Manhattan</div>
-                  <div className="text-gray-600">123 Main St, New York, NY 10001</div>
+                  <div className="font-semibold">Tunis</div>
+                  <div className="text-gray-600">Ezzouhour Route X</div>
                 </button>
-                <button
-                  onClick={() => selectLocation('456 Oak Ave, Brooklyn, NY 11201')}
-                  className="p-4 border border-gray-300 rounded-lg hover:border-blue-500 hover:bg-blue-50 transition-colors text-left"
-                >
-                  <div className="font-semibold">Brooklyn</div>
-                  <div className="text-gray-600">456 Oak Ave, Brooklyn, NY 11201</div>
-                </button>
-                <button
-                  onClick={() => selectLocation('789 Pine St, Queens, NY 11101')}
-                  className="p-4 border border-gray-300 rounded-lg hover:border-blue-500 hover:bg-blue-50 transition-colors text-left"
-                >
-                  <div className="font-semibold">Queens</div>
-                  <div className="text-gray-600">789 Pine St, Queens, NY 11101</div>
-                </button>
-                <button
-                  onClick={() => selectLocation('321 Elm St, Bronx, NY 10451')}
-                  className="p-4 border border-gray-300 rounded-lg hover:border-blue-500 hover:bg-blue-50 transition-colors text-left"
-                >
-                  <div className="font-semibold">Bronx</div>
-                  <div className="text-gray-600">321 Elm St, Bronx, NY 10451</div>
-                </button>
+               
+                
               </div>
             </div>
           </div>
