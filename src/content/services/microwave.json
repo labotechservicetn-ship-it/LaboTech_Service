@@ -1,7 +1,7 @@
 {
-    "title": "Microwave Repair",
+    "title": "Réparation de micro-ondes",
     "image": "https://appliancesrepairdmv.com/assets/images/microwave-img.jpg",
-    "description": "Professional microwave repair services including magnetron, turntable, and control panel issues.",
-    "features": ["Not heating", "Turntable issues", "Door problems", "Control panel"],
+    "description": "Services professionnels de réparation des micro-ondes, y compris les problèmes de magnétron, de plateau tournant et de panneau de commande.",
+    "features": ["Ne chauffe pas", "Problèmes de platine", "Problèmes de porte", "Panneau de commande"],
     "icon": "Microwave"
   }
