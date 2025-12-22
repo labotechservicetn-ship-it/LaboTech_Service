@@ -3,9 +3,9 @@ export const siteConfig = {
   description: "Professional appliance repair services with over 15 years of experience. Licensed, insured, and committed to getting your appliances running like new.",
   phone: "52 649 639",
   email: "wadijridi@gmail.com",
-  address: "Greater Metro Area",
+  address: "Ezzouhour Route X Tunis",
   serviceRadius: "30-mile radius",
-  logo: "https://i.ibb.co/mC2ZnWFG/cozy-Tech-lgo.png",
+  logo: "https://i.ibb.co/fVdLmRr8/574565550-1675719573682127-2783235721408072041-n-removebg-preview.png",
   
   // Business hours
   hours: {
