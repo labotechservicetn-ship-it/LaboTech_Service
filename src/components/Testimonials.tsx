@@ -16,16 +16,16 @@ const Testimonials = () => {
       text: "Intervention rapide, diagnostic précis et service de qualité. Une société fiable et compétente. Une équipe très professionnelle et à l’écoute . Service professionnel rapide et efficace.  travail tres bien soigné.. Merci pour votre sérieux et votre gentillesse. Je recommande vivement .. 👍 top"
     },
     {
-      name: "Emily Rodriguez",
-      image: "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=150",
+      name: "Mohamed Slim Hammami ",
+      image: "https://scontent.ftun8-1.fna.fbcdn.net/v/t39.30808-6/465740273_575394998270449_7164948658710660751_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=JfXchcwQYSEQ7kNvwHhHFIo&_nc_oc=AdldXuksojpWh2GRMqKxj7z9y9i989kz0YTwNFUrjQGwqnWUdeox3MNl_ZUrW-shIiA&_nc_zt=23&_nc_ht=scontent.ftun8-1.fna&_nc_gid=XDdGOos1XYv1p6u5KDnlwQ&oh=00_AfmtXD1zvvXmy753L8rdptw9qIi0EfPfBjouUsL5GVsXyQ&oe=694F98E7",
       rating: 5,
-      text: "Outstanding customer service. They explained everything clearly and the repair was done perfectly."
+      text: "service rapide et professionnel, ya3tikom sa7a"
     },
     {
-      name: "David Thompson",
-      image: "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=150",
+      name: "Latifa Saddem Ep ElMansi",
+      image: "https://scontent.ftun8-1.fna.fbcdn.net/v/t39.30808-6/464696964_8542413689220028_1330145266687917549_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=_cop1M8PqHsQ7kNvwH5JxZ6&_nc_oc=Adko-vrhQGQJD_hZNHDWNHs6hNa6Ev--y2GGQ_y_c6G3_ndMdBXhYWOweNKSI15g6k0&_nc_zt=23&_nc_ht=scontent.ftun8-1.fna&_nc_gid=OqsRZWzmXsRWlafWmylWLg&oh=00_AflMS7tNAOq6ao5wNvWKpoDQ3hMkG7WfRwRdX70MRGOIQA&oe=694F94DC",
       rating: 5,
-      text: "Highly recommend! Fixed my oven quickly and provided great tips for maintenance."
+      text: "mille merci pour votre service rapide et efficace."
     },
     {
       name: "Lisa Park",
