@@ -1,7 +1,7 @@
 {
-    "title": "Refrigerator Repair",
+    "title": "Réparation de réfrigérateur",
     "image": "https://appliancesrepairdmv.com/assets/images/refrigerator-img.jpg",
-    "description": "Complete refrigerator and freezer repair services including compressor, thermostat, and cooling system issues.",
+    "description": "Services complets de réparation de réfrigérateurs et congélateurs, y compris les problèmes de compresseur, de thermostat et de système de refroidissement.",
     "features": ["Not cooling", "Strange noises", "Water leaks", "Ice maker problems"],
     "icon": "Refrigerator"
   }
