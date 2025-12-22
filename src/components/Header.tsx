@@ -18,7 +18,7 @@ const Header = () => {
         <div className="flex justify-between items-center py-0">
           <div className="flex items-center">
             <img 
-              src="https://ibb.co/cKhVz52b" 
+              src="https://i.ibb.co/fVdLmRr8/574565550-1675719573682127-2783235721408072041-n-removebg-preview.png" 
               alt="Labotech Service Logo" 
               className="h-32 w-auto"
             />
