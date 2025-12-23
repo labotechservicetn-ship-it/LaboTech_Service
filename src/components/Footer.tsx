@@ -55,7 +55,7 @@ Entreprise agréée et assurée, nous nous engageons à remettre vos appareils e
                 <Mail className="h-5 w-5 text-orange-400" />
                 <div>
                   <p className="text-white">{contactData.email} </p>
-                  <p className="text-sm text-gray-400">Quick response</p>
+                  <p className="text-sm text-gray-400">Réponse rapide</p>
                 </div>
               </div>
               
