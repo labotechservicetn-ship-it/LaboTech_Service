@@ -106,7 +106,7 @@ const Hero = () => {
                   <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent" />
                   <div className="absolute bottom-4 left-4 md:bottom-6 md:left-6 text-white">
                     <h2 className="text-xl sm:text-2xl md:text-3xl lg:text-4xl font-bold mb-1 md:mb-2">
-                    {item.name} Service
+                    {item.name} 
                     </h2>
                     <p className="text-sm sm:text-base md:text-lg text-blue-100">
                       Réparation et entretien professionnels
