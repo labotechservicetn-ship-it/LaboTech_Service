@@ -45,8 +45,8 @@ const About = () => {
                   <Award className="h-6 w-6 text-green-600" />
                 </div>
                 <div>
-                  <h3 className="font-semibold text-gray-900 mb-2">Licensed & Certified Technicians</h3>
-                  <p className="text-gray-600">All our technicians are fully licensed, insured, and continuously trained on the latest appliance technologies.</p>
+                  <h3 className="font-semibold text-gray-900 mb-2">Techniciens agréés et certifiés</h3>
+                  <p className="text-gray-600">Tous nos techniciens sont entièrement agréés, assurés et suivent une formation continue sur les dernières technologies en matière d'appareils électroménagers.</p>
                 </div>
               </div>
 
@@ -55,8 +55,8 @@ const About = () => {
                   <ThumbsUp className="h-6 w-6 text-blue-600" />
                 </div>
                 <div>
-                  <h3 className="font-semibold text-gray-900 mb-2">90-Day Warranty</h3>
-                  <p className="text-gray-600">We stand behind our work with a comprehensive 90-day warranty on all repairs and replacement parts.</p>
+                  <h3 className="font-semibold text-gray-900 mb-2">Garantie de 90 jours</h3>
+                  <p className="text-gray-600">Nous garantissons notre travail avec une garantie complète de 90 jours sur toutes les réparations et les pièces de rechange.</p>
                 </div>
               </div>
 
@@ -65,8 +65,8 @@ const About = () => {
                   <Clock className="h-6 w-6 text-orange-600" />
                 </div>
                 <div>
-                  <h3 className="font-semibold text-gray-900 mb-2">Same-Day Service</h3>
-                  <p className="text-gray-600">Most repairs completed the same day. We carry common parts in our trucks for immediate fixes.</p>
+                  <h3 className="font-semibold text-gray-900 mb-2">Service le jour même</h3>
+                  <p className="text-gray-600">La plupart des réparations sont effectuées le jour même. Nous avons en stock dans nos camions les pièces courantes pour des réparations immédiates.</p>
                 </div>
               </div>
             </div>
@@ -111,8 +111,7 @@ const About = () => {
                 </div>
               </div>
               <p className="text-gray-600 text-sm">
-                "CozyTech fixed my refrigerator the same day I called. Professional, 
-                affordable, and friendly service!"
+                "شهادة حق ما شاء الله عليكم كامل المجموعة اخلاق عالية وخدمة وإتقان وثقة كبيرة وكنتو عند حسن الضن الحق متع ربي هزولي الماكينة متاعي صلحوها وجابوهالي في أحسن حال ونشكر شكرا خاص لخونا محمد الي تعاملت معاه مباشره علي حسن اخلاقو وربي يباركلك"
               </p>
             </div>
           </div>
