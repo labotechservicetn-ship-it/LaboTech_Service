@@ -17,7 +17,7 @@ const Footer = () => {
               </div>
               <div>
                 <h3 className="text-2xl font-bold">Labotech Service</h3>
-                <p className="text-gray-400">Appliance Repair</p>
+                <p className="text-gray-400">Services de réparation</p>
               </div>
             </div>
             
