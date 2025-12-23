@@ -1,6 +1,6 @@
 export const services = [
   {
-    id: "refrigerator",
+    id: "réfrigérateur",
     name: "Refrigerator Repair",
     description: "Complete refrigerator and freezer repair services including cooling issues, ice maker problems, and more.",
     image: "https://images.pexels.com/photos/2343468/pexels-photo-2343468.jpeg?auto=compress&cs=tinysrgb&w=400",
