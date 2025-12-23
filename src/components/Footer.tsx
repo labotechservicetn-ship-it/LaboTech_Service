@@ -47,7 +47,7 @@ Entreprise agréée et assurée, nous nous engageons à remettre vos appareils e
                 <Phone className="h-5 w-5 text-orange-400" />
                 <div>
                   <p className="text-white">{contactData.phone}</p>
-                  <p className="text-sm text-gray-400">24/7 Emergency</p>
+                  <p className="text-sm text-gray-400">24/7 Service d'urgence</p>
                 </div>
               </div>
               
