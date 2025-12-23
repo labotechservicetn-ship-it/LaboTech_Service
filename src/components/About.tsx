@@ -32,13 +32,11 @@ const About = () => {
           {/* Content */}
           <div>
             <h2 className="text-4xl font-bold text-gray-900 mb-6">
-              Why Choose CozyTech for Your Appliance Repairs?
+              Pourquoi choisir Labotech Service ?
             </h2>
             
             <p className="text-xl text-gray-600 mb-8 leading-relaxed">
-              For over 15 years, CozyTech has been the trusted choice for appliance repair 
-              services in the area. Our certified technicians combine expertise with genuine 
-              care to get your appliances running like new.
+              Depuis plus de 5 ans, Labotech Service est le choix de confiance pour la réparation d'électroménagers dans la région. Nos techniciens certifiés allient expertise et souci du détail pour que vos appareils fonctionnent comme au premier jour.
             </p>
 
             <div className="space-y-6 mb-8">
