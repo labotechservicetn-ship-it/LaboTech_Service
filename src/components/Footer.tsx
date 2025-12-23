@@ -34,7 +34,7 @@ Entreprise agréée et assurée, nous nous engageons à remettre vos appareils e
                 <Star className="h-5 w-5 fill-current" />
                 <Star className="h-5 w-5 fill-current" />
               </div>
-              <span className="text-gray-300">5.0 Rating • 500+ Happy Customers</span>
+              <span className="text-gray-300">Note de 5,0/5 • Plus de 500 clients satisfaits</span>
             </div>
           </div>
 
