@@ -104,7 +104,7 @@ const About = () => {
                   className="w-12 h-12 rounded-full object-cover"
                 />
                 <div>
-                  <p className="font-semibold text-gray-900">Sarah Johnson</p>
+                  <p className="font-semibold text-gray-900">Mzoughi Taoufike</p>
                   <div className="flex text-orange-500">
                     ★★★★★
                   </div>
