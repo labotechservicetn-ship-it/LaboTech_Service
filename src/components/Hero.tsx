@@ -15,7 +15,7 @@ const services = [
     image: 'https://i.ibb.co/5WHxFFGD/Untitled-1.png'
   },
   {
-    name: 'Dryer',
+    name: 'Congélateur',
     image: 'https://i.ibb.co/tM0dD7SK/azer.png'
   },
   {
