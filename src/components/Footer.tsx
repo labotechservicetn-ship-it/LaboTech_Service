@@ -71,7 +71,7 @@ Entreprise agréée et assurée, nous nous engageons à remettre vos appareils e
             <h4 className="text-lg font-semibold mb-6">Nos Services</h4>
             <ul className="space-y-3">
               <li><a href="#services" className="text-gray-300 hover:text-orange-400 transition-colors">Réparation Refrigerateur</a></li>
-              <li><a href="#services" className="text-gray-300 hover:text-orange-400 transition-colors">Réparation Machine à laverr</a></li>
+              <li><a href="#services" className="text-gray-300 hover:text-orange-400 transition-colors">Réparation Machine à laver</a></li>
               <li><a href="#services" className="text-gray-300 hover:text-orange-400 transition-colors">Réparation Four</a></li>
               <li><a href="#services" className="text-gray-300 hover:text-orange-400 transition-colors">Réparation Climatiseur</a></li>
               <li><a href="#services" className="text-gray-300 hover:text-orange-400 transition-colors">Réparation Micro-onde</a></li>
