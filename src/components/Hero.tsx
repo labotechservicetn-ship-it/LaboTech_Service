@@ -11,7 +11,7 @@ const services = [
     image: 'https://i.ibb.co/ffvwZxQ/freezze.png'
   },
   {
-    name: 'Réfrigérateur',
+    name: 'Séchoir',
     image: 'https://i.ibb.co/5WHxFFGD/Untitled-1.png'
   },
   {
@@ -23,7 +23,7 @@ const services = [
     image: 'https://i.ibb.co/JjQBmyQs/oven.png'
   },
   {
-    name: 'Microwave',
+    name: 'Réfrigérateur',
     image: 'https://i.ibb.co/sptSNxY6/young-repairman-blue-uniform-repairs-repairs-microwave-oven-with-screwdriver-modern-kitchen-353017-1.jpg'
   },
   {
