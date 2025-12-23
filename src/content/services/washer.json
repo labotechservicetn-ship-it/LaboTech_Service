@@ -1,7 +1,7 @@
 {
-    "title": "Washer & Dryer Repair",
+    "title": "Réparation machine à laver",
     "image": "https://appliancesrepairdmv.com/assets/images/washer-img.jpg",
-    "description": "Expert repair for all washing machine and dryer brands. Quick diagnosis and professional fixes.",
-    "features": ["Won't start", "Not draining", "Not spinning", "Not heating"],
+    "description": "Réparation experte pour toutes les marques de machine à laver. Diagnostic rapide et réparations professionnelles.",
+    "features": ["Ne démarre pas", "Ne vidange pas", "L'eau ne chauffe plus", "Le tambour ne tourne pas"],
     "icon": "WashingMachine"
   }
