@@ -99,7 +99,7 @@ const About = () => {
             <div className="absolute -bottom-8 -left-8 bg-white p-6 rounded-xl shadow-lg max-w-xs">
               <div className="flex items-center space-x-3 mb-2">
                 <img
-                  src="https://images.pexels.com/photos/6195116/pexels-photo-6195116.jpeg"
+                  src="https://scontent.ftun8-1.fna.fbcdn.net/v/t39.30808-1/503392972_1249761873407173_1138833350638458352_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=106&ccb=1-7&_nc_sid=e99d92&_nc_ohc=cgaUu6c6np8Q7kNvwH8ZpIv&_nc_oc=AdlWKgmAArkmVqwX5vxHgm0i01eE7KLAwhMmkgO-9-6hi73HxDix19A2-rAmZKsG0CM&_nc_zt=24&_nc_ht=scontent.ftun8-1.fna&_nc_gid=l8UMtwlMFQU7qDoxfWN-xQ&oh=00_AfkrQoIyVemiO0Deo6CG6WyQIjPaDsubbvb7k3NwEqOdhA&oe=694FCE16"
                   alt="Customer testimonial"
                   className="w-12 h-12 rounded-full object-cover"
                 />
