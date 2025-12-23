@@ -27,7 +27,7 @@ const services = [
     image: 'https://i.ibb.co/sptSNxY6/young-repairman-blue-uniform-repairs-repairs-microwave-oven-with-screwdriver-modern-kitchen-353017-1.jpg'
   },
   {
-    name: 'Cooktop',
+    name: 'Climatiseur',
     image: 'https://i.ibb.co/Nd6bGXCk/coocktop.png'
   },
   {
