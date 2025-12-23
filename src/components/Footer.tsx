@@ -22,8 +22,8 @@ const Footer = () => {
             </div>
             
             <p className="text-gray-300 mb-6 leading-relaxed max-w-md">
-              Professional appliance repair services with over 15 years of experience. 
-              Licensed, insured, and committed to getting your appliances running like new.
+              Service de réparation d'électroménagers professionnel avec plus de 5 ans d'expérience.
+Entreprise agréée et assurée, nous nous engageons à remettre vos appareils en parfait état de fonctionnement.
             </p>
 
             <div className="flex items-center space-x-2 mb-4">
