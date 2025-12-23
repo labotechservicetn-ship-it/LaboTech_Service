@@ -16,7 +16,7 @@ const Footer = () => {
                 <Phone className="h-6 w-6" />
               </div>
               <div>
-                <h3 className="text-2xl font-bold">CozyTech</h3>
+                <h3 className="text-2xl font-bold">Labotech Service</h3>
                 <p className="text-gray-400">Appliance Repair</p>
               </div>
             </div>
