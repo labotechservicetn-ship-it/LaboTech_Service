@@ -42,7 +42,7 @@ const Services = () => {
                   <h3 className="text-2xl font-bold text-gray-900 mb-4">{service.title}</h3>
                   <p className="text-gray-600 mb-6 leading-relaxed">{service.description}</p>
                   <div className="space-y-2">
-                    <h4 className="font-semibold text-gray-900 mb-3">Common Issues:</h4>
+                    <h4 className="font-semibold text-gray-900 mb-3">Pannes courants:</h4>
                     <ul className="space-y-2">
                       {service.features?.map((feature: string, idx: number) => (
                         <li key={idx} className="flex items-center text-sm text-gray-600">
