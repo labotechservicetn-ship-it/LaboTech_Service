@@ -29,11 +29,8 @@ const services = [
   {
     name: 'Climatiseur',
     image: 'https://i.ibb.co/Nd6bGXCk/coocktop.png'
-  },
-  {
-    name: 'Washer',
-    image: 'https://i.ibb.co/wZMd0xGc/washer.png'
   }
+  
 ];
 
 const Hero = () => {
