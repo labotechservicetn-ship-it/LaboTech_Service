@@ -6,22 +6,22 @@ const About = () => {
     {
       icon: <Users className="h-8 w-8" />,
       number: "500+",
-      label: "Happy Customers"
+      label: "Clients satisfaits"
     },
     {
       icon: <Award className="h-8 w-8" />,
-      number: "15+",
-      label: "Years Experience"
+      number: "5+",
+      label: "Années d'expérience"
     },
     {
       icon: <Clock className="h-8 w-8" />,
       number: "24/7",
-      label: "Emergency Service"
+      label: "Service d'urgence"
     },
     {
       icon: <ThumbsUp className="h-8 w-8" />,
       number: "98%",
-      label: "Customer Satisfaction"
+      label: "Satisfaction client"
     }
   ];
 
