@@ -11,7 +11,7 @@ const services = [
     image: 'https://i.ibb.co/ffvwZxQ/freezze.png'
   },
   {
-    name: 'Séchoir',
+    name: 'Machine à laver',
     image: 'https://i.ibb.co/5WHxFFGD/Untitled-1.png'
   },
   {
