@@ -73,9 +73,9 @@ Entreprise agréée et assurée, nous nous engageons à remettre vos appareils e
               <li><a href="#services" className="text-gray-300 hover:text-orange-400 transition-colors">Réparation Refrigerateur</a></li>
               <li><a href="#services" className="text-gray-300 hover:text-orange-400 transition-colors">Réparation Machine à laverr</a></li>
               <li><a href="#services" className="text-gray-300 hover:text-orange-400 transition-colors">Réparation Four</a></li>
-              <li><a href="#services" className="text-gray-300 hover:text-orange-400 transition-colors">Dishwasher Repair</a></li>
+              <li><a href="#services" className="text-gray-300 hover:text-orange-400 transition-colors">Réparation Climatiseur</a></li>
               <li><a href="#services" className="text-gray-300 hover:text-orange-400 transition-colors">Réparation Micro-onde</a></li>
-              <li><a href="#services" className="text-gray-300 hover:text-orange-400 transition-colors">Réparation </a></li>
+              <li><a href="#services" className="text-gray-300 hover:text-orange-400 transition-colors">Réparation Plaque de cuisson </a></li>
             </ul>
           </div>
         </div>
