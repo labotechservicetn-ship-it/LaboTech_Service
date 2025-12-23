@@ -11,7 +11,7 @@ const About = () => {
     {
       icon: <Award className="h-8 w-8" />,
       number: "5+",
-      label: "Années d'expérience"
+      label: "Ans d'expérience"
     },
     {
       icon: <Clock className="h-8 w-8" />,
