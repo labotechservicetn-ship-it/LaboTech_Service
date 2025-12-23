@@ -19,7 +19,7 @@ const services = [
     image: 'https://i.ibb.co/tM0dD7SK/azer.png'
   },
   {
-    name: 'Oven',
+    name: 'Four',
     image: 'https://i.ibb.co/JjQBmyQs/oven.png'
   },
   {
