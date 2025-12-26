@@ -287,7 +287,7 @@ const Contact = () => {
                 <span className="flex items-center justify-center w-4 h-4 rounded-full bg-green-500 text-white text-[10px] mr-2">
                   ✓
                 </span>
-                <div className="text-gray-600">Plaque de cuisson</div>
+                <div className="text-gray-600">Carte éléctronique</div>
               </div>
 
               <div className="flex items-center mb-2">
@@ -297,12 +297,7 @@ const Contact = () => {
                 <div className="text-gray-600">Four</div>
               </div>
 
-              <div className="flex items-center mb-2">
-                <span className="flex items-center justify-center w-4 h-4 rounded-full bg-green-500 text-white text-[10px] mr-2">
-                  ✓
-                </span>
-                <div className="text-gray-600">Hottes aspirantes</div>
-              </div>
+              
             </div>
           </div>
         </div>
