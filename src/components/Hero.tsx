@@ -7,7 +7,7 @@ const carouselItems = Object.values(modules).map((mod: any) => mod.default ?? mo
 
 const services = [
   {
-    name: 'Plaque de cuisson',
+    name: 'Carte Eléctronique',
     image: 'https://i.ibb.co/ffvwZxQ/freezze.png'
   },
   {

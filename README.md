@@ -1,6 +1,6 @@
-# CozytTech Appliance Repair Website
+# Labotech Assistance Website
 
-A modern, responsive website for CozytTech Appliance Repair services built with React, TypeScript, and Tailwind CSS.
+A modern, responsive website for Labotech Assistance built with React, TypeScript, and Tailwind CSS.
 
 ## Features
 
@@ -139,5 +139,5 @@ This project is licensed under the MIT License.
 ## Support
 
 For support or questions about this website, please contact:
-- Email: info@cozytechrepair.com
+- Email: info@LabotechAssistance.services
 - Phone: (123) 456-7890
