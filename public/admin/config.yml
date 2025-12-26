@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: cozytechappliancerepair/CozyTech_CMS  # ← replace with your GitHub repo
+  repo: labotechservicetn-ship-it/LaboTech_Service  # ← replace with your GitHub repo
   branch: main                                # ← replace with your main branch if different
 
 media_folder: "public/uploads"               # where uploaded files go in your repo
