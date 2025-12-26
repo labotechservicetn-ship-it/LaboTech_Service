@@ -1,8 +1,9 @@
 {
   "features": [
-    "Diagnostic",
-    "Identification de la panne",
-    "Restauration des soudures"
+    "Surchauffe",
+    "Surtensions",
+    "condensateurs bombés",
+    "fusibles grillés"
   ],
   "title": "Réparation des cartes éléctronique",
   "description": "diagnostiquer et réparer des circuits imprimés (PCB) défectueux",
