@@ -28,18 +28,6 @@ collections:
         default: []
       - { label: "Icon", name: "icon", widget: "select", options: ["Refrigerator","WashingMachine","Microwave","Dishwasher","AirConditioner","Cookie"] }
 
-  - name: portfolio
-    label: "Portfolio"
-    folder: "src/content/portfolio"
-    extension: "json"
-    format: "json"
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Category", name: "category", widget: "string" }
-      - { label: "Image URL", name: "image", widget: "string" }
-      - { label: "Description", name: "description", widget: "text" }
 
   - name: contact
     label: "Contact Information"
