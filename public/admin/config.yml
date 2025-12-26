@@ -28,6 +28,18 @@ collections:
         default: []
       - { label: "Icon", name: "icon", widget: "select", options: ["Refrigerator","WashingMachine","Microwave","Dishwasher","AirConditioner","Cookie","circuit-board"] }
 
+  - name: testimonials
+    label: "Testimonials"
+    folder: "src/content/testimonials"
+    extension: "json"
+    format: "json"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Name", name: "name", widget: "string" }
+      - { label: "Image URL", name: "image", widget: "string" }
+      - { label: "Rating", name: "rating", widget: "number" }
+      - { label: "Text", name: "text", widget: "text" }
 
   - name: contact
     label: "Contact Information"
