@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Menu, X } from 'lucide-react';
-
+import logoData from "../content/logo.json";
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
@@ -18,7 +18,7 @@ const Header = () => {
         <div className="flex justify-between items-center py-0">
           <div className="flex items-center">
             <img 
-              src="https://i.ibb.co/fVdLmRr8/574565550-1675719573682127-2783235721408072041-n-removebg-preview.png" 
+              src={logoData.image} 
               alt="Labotech Service Logo" 
               className="h-32 w-auto"
             />

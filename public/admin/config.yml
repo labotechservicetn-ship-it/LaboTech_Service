@@ -55,3 +55,16 @@ collections:
     fields:
       - { label: "Name", name: "name", widget: "string" }
       - { label: "Image URL", name: "image", widget: "string" }
+
+
+  - name: "logo"
+    label: "Logo"
+    files:
+      - file: "src/content/logo.json"
+        label: "Logo"
+        name: "logo"
+        format: "json"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Image", name: "image", widget: "string" }
+        
